@@ -15,7 +15,7 @@ Contributions are welcome. Look for "FIXME" in the code for places where they ar
 
 ## Code of Conduct
 
-This code is constantly linted and scanned for best practice. Black is the standard linter for this repository.
+This code is constantly linted and scanned for best practice. [Black](https://github.com/psf/black) is the standard linter for this repository.
 
 ## License
 
